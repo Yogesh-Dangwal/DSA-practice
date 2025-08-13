@@ -1,9 +1,9 @@
 # DSA-practice
-Collection of Data Structures and Algorithms problems with solutions in Java.
+Collection of Data Structures and Algorithms programs in Java.
 
 # Data Structures and Algorithms (DSA) 🚀
 
-This repository contains my solutions to various *Data Structures and Algorithms* problems.
+This repository contains my programs of *Data Structures and Algorithms*.
 
 ## 🛠 Languages Used
 - Java
@@ -16,5 +16,6 @@ This repository contains my solutions to various *Data Structures and Algorithms
 - Trees & Graphs
 - Dynamic Programming
 - Sorting & Searching
-
-Happy coding 👍👍
+<br>
+Author - Yogesh Dangwal
+<h1>Happy coding 👍👍 </h1>
