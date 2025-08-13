@@ -17,5 +17,5 @@ This repository contains my programs of *Data Structures and Algorithms*.
 - Dynamic Programming
 - Sorting & Searching
 <br>
-Author - Yogesh Dangwal
+<h1>Author - Yogesh Dangwal</h1>
 <h1>Happy coding 👍👍 </h1>
